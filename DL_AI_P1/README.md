@@ -1,4 +1,4 @@
-# 🤖 DecodeLabs AI Chatbot – Hybrid Architecture
+# 🤖 DecodeLabs AI Chatbot – Hybrid Architecture - Project 1
 
 A Python-based AI chatbot that combines **rule-based intent matching** with a **Large Language Model (LLM) fallback architecture**. The chatbot first attempts deterministic matching for fast and reliable responses. If no suitable response is found, it routes the query to a simulated LLM layer.
 
