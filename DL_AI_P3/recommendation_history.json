@@ -1,0 +1,682 @@
+[
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  },
+  {
+    "timestamp": "2026-07-07 23:59:36",
+    "user": {
+      "category": "",
+      "difficulty": "",
+      "budget": "",
+      "tags": [],
+      "minimum_rating": 0.0
+    },
+    "recommendations": [
+      {
+        "name": "Python for AI",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Machine Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      },
+      {
+        "name": "Deep Learning Basics",
+        "similarity_score": 0.0,
+        "reasons": [
+          "Cold Start Popular Recommendation"
+        ]
+      }
+    ],
+    "feedback": null
+  }
+]
